@@ -1,2 +1,2 @@
 # The mixed observable RRT
-A Python implentation of the MORRT is coming soon.
+A Python implementation of the MORRT is coming soon.
